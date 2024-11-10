@@ -1,0 +1,63 @@
+﻿edition.2,year,city,country_noc,start_date,end_date,competition_date,edition id
+ Summer Olympics,1896,Athina,GRE,06 April 1896,15-04-1896,6 to 13 April,1
+ Summer Olympics,1908,London,GBR,13 July 1908,25 July 1908,27 April to 31 October,5
+ Summer Olympics,1912,Stockholm,SWE,06 July 1912,15 July 1912, 5 May to 27 July,6
+ Summer Olympics,1916,Berlin,GER,,,Not held due to war,50
+ Summer Olympics,1920,Antwerpen,BEL,14 August 1920,30 August 1920,23 April to 12 September,7
+ Summer Olympics,1924,Paris,FRA,05 July 1924,27 July 1924, 4 May to 27 July,8
+ Summer Olympics,1928,Amsterdam,NED,28 July 1928,12 August 1928,17 May to 12 August,9
+ Summer Olympics,1932,Los Angeles,USA,30 July 1932,14 August 1932,30 July to 14 August,10
+ Summer Olympics,1936,Berlin,GER,01 August 1936,16 August 1936,1 to 16 August,11
+ Summer Olympics,1940,Helsinki,FIN,,,Not held due to war,51
+ Summer Olympics,1944,London,GBR,,,Not held due to war,52
+ Summer Olympics,1948,London,GBR,29 July 1948,14 August 1948,26 July to 14 August,12
+ Summer Olympics,1952,Helsinki,FIN,19 July 1952,03 August 1952,14 July to  3 August,13
+ Summer Olympics,1956,Melbourne,AUS,22 November 1956,08 December 1956,22 November to  8 December,14
+ Summer Olympics,1960,Roma,ITA,25 August 1960,11 September 1960,25 August to 11 September,15
+ Summer Olympics,1964,Tokyo,JPN,10 October 1964,24 October 1964,11 to 24 October,16
+ Summer Olympics,1968,Ciudad de Mexico ,MEX,12 October 1968,27 October 1968,12 to 27 October,17
+ Summer Olympics,1972,Munic,FRG,26 August 1972,11 September 1972,26 August to 11 September,18
+ Summer Olympics,1976,Montreal,CAN,17 July 1976,01 August 1976,18 July to  1 August,19
+ Summer Olympics,1980,Moskva,URS,19 July 1980,03 August 1980,20 July to  3 August,20
+ Summer Olympics,1984,Los Angeles,USA,28 July 1984,12 August 1984, 6 July to 12 August,21
+ Summer Olympics,1988,Seoul,KOR,17 September 1988,02 October 1988,17 September to  2 October,22
+ Summer Olympics,1992,Barcelona,ESP,25 July 1992,09 August 1992,24 July to  9 August,23
+ Summer Olympics,1996,Atlanta,USA,19 July 1996,04 August 1996,20 July to  4 August,24
+ Summer Olympics,2000,Sydney,AUS,15 September 2000,01 October 2000,13 September to  1 October,25
+ Summer Olympics,2004,Athina,GRE,13 August 2004,29 August 2004,11 to 29 August,26
+ Summer Olympics,2008,Beijing,CHN,08 August 2008,24 August 2008,6 to 24 August,53
+ Summer Olympics,2012,London,GBR,27 July 2012,12 August 2012,25 July to 12 August,54
+ Summer Olympics,2016,Rio de Janeiro,BRA,05 August 2016,21 August 2016,3 to 21 August,59
+ Summer Olympics,2020,Tokyo,JPN,23 July 2020,08 August 2020,21 July to  8 August 2021,61
+ Summer Olympics,2024,Paris,FRA,,,Not held due to war,63
+ Summer Olympics,2028,Los Angeles,USA,,,Not held due to war,64
+ Summer Olympics,2032,Brisbane,AUS,,,Not held due to war,372
+ Winter Olympics,1924,Chamonix,FRA,24 January 1924,05 February 1924,26 January to  4 February,29
+ Winter Olympics,1928,Sankt Moritz,SUI,11 February 1928,17 February 1928,11 to 19 February,30
+ Winter Olympics,1932,Lake Placid,USA,04 February 1932,13 February 1932,4 to 15 February,31
+ Winter Olympics,1936,Garmisch-Partenkirchen,GER,06 February 1936,16 February 1936,6 to 16 February,32
+ Winter Olympics,1940,Garmisch-Partenkirchen,GER,,,Not held due to war,55
+ Winter Olympics,1944,Cortina d'Ampezzo,ITA,,,Not held due to war,56
+ Winter Olympics,1948,Sankt Moritz,SUI,30 January 1948,08 February 1948,30 January to  8 February,33
+ Winter Olympics,1952,Oslo,NOR,15 February 1952,25 February 1952,14 to 25 February,34
+ Winter Olympics,1956,Cortina d'Ampezzo,ITA,26 January 1956,05 February 1956,26 January to  5 February,35
+ Winter Olympics,1960,Squaw Valley,USA,18 February 1960,28 February 1960,19 to 28 February,36
+ Winter Olympics,1964,Innsbruck,AUT,29 January 1964,09 February 1964,27 January to  9 February,37
+ Winter Olympics,1968,Grenoble,FRA,06 February 1968,18 February 1968,4 to 18 February,38
+ Winter Olympics,1972,Sapporo,JPN,03 February 1972,13 February 1972,3 to 13 February,39
+ Winter Olympics,1976,Innsbruck,AUT,04 February 1976,15 February 1976,3 to 15 February,40
+ Winter Olympics,1980,Lake Placid,USA,13 February 1980,24 February 1980,12 to 24 February,41
+ Winter Olympics,1984,Sarajevo,YUG,08 February 1984,19 February 1984,7 to 19 February,42
+ Winter Olympics,1988,Calgary,CAN,13 February 1988,28 February 1988,13 to 28 February,43
+ Winter Olympics,1992,Albertville,FRA,08 February 1992,23 February 1992,8 to 23 February,44
+ Winter Olympics,1994,Lillehammer,NOR,12 February 1994,27 February 1994,12 to 27 February,45
+ Winter Olympics,1998,Nagano,JPN,07 February 1998,22 February 1998,7 to 22 February,46
+ Winter Olympics,2002,Salt Lake City,USA,08 February 2002,24 February 2002,9 to 24 February,47
+ Winter Olympics,2006,Torino,ITA,10 February 2006,26 February 2006,11 to 26 February,49
+ Winter Olympics,2010,Vancouver,CAN,12 February 2010,28 February 2010,12 to 28 February,57
+ Winter Olympics,2014,Sochi,RUS,07 February 2014,23 February 2014,6 to 23 February,58
+ Winter Olympics,2018,PyeongChang,KOR,09 February 2018,25 February 2018,8 to 25 February,60
+ Winter Olympics,2022,Beijing,CHN,04 February 2022,20 February 2022,2 to 20 February,62
+ Winter Olympics,2026,Milano-Cortina d'Ampezzo,ITA,06 February 2026,22 February 2026,4 to 22 February,72
+ Equestrian,1956,Stockholm,SWE,10 June 1956,17 June 1956,11 to 17 June,48
+ Intercalated,1906,Athina,GRE,22 April 1906,02 May 1906,22 April to  2 May,4
